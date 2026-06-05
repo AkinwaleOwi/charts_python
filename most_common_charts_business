@@ -1,0 +1,80 @@
+codes:
+$$$ = means the code is on my github. post the link next to it
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+goal: list of the most common charts used in business
+====================================
+Here are the most common charts used in business, what they’re good for, and when people usually reach for them 👇
+
+$$$ 0. Bar / Column Chart: 
+
+Best for: Comparing values across categories
+Typical uses: Sales by product, revenue by region, expenses by department
+👉 Easy to read, exec-friendly, probably the most used chart in business.
+
+links = (0a. https://github.com/AkinwaleOwi/charts_python/blob/main/bar_graph_each_bar_a_different_color_3d, 0b. https://github.com/AkinwaleOwi/charts_python/blob/main/bar_graph_each_bar_a_different_color_3d)
+
+
+$$$. 1. Line Chart
+
+Best for: Trends over time
+Typical uses: Monthly sales, stock prices, website traffic, KPIs over time
+👉 Perfect when time is involved and you want to show growth, decline, or seasonality.
+
+links = 1a.https://github.com/AkinwaleOwi/charts_python/blob/main/python_line_chart_with_each_line_a_different_color_3D , 1b. https://github.com/AkinwaleOwi/charts_python/blob/main/line_chart_each_line_a_different_color_2d , 1c. https://github.com/AkinwaleOwi/charts_python/blob/main/line_graph_dotted_line_width_work , 1d. https://github.com/AkinwaleOwi/charts_python/blob/main/line_graph_multiple_lines_dotted , 1e. https://github.com/AkinwaleOwi/charts_python/blob/main/line_graph_solid_line_hex_color, 1f. https://github.com/AkinwaleOwi/charts_python/blob/main/line_graph_dotted_line , 1g. https://github.com/AkinwaleOwi/charts_python/blob/main/line_graph_solid_line
+
+$$$. 2. Pie Chart
+
+Best for: Showing parts of a whole
+Typical uses: Market share, budget allocation
+👉 Works only when there are few categories. Overused and often misused 😅
+
+links = 2a. https://github.com/AkinwaleOwi/charts_python/blob/main/pie_chart_chatgpt_3d , 2b. https://github.com/AkinwaleOwi/charts_python/blob/main/pie_chart2d_ChatGpt
+
+3. Stacked Bar / Stacked Column
+
+Best for: Comparing totals and composition
+Typical uses: Revenue by region split by product line
+👉 Good for storytelling, but can get messy if there are many segments.
+
+4. Area Chart
+
+Best for: Trends + magnitude over time
+Typical uses: Cumulative sales, user growth
+👉 Like a line chart, but with more visual “weight.”
+
+$$$. 5. Scatter Plot
+
+Best for: Relationships between variables
+Typical uses: Price vs. demand, ad spend vs. conversions
+👉 Great for analysis and spotting correlations (and outliers).
+
+Links = 5a. https://github.com/AkinwaleOwi/charts_python/blob/main/scatterplot_two_different_line_colors_2D
+
+$$$. 6. Histogram
+
+Best for: Distribution of data
+Typical uses: Customer age distribution, delivery times
+👉 Popular with analysts, less so in exec decks.
+
+Links = 6a. https://github.com/AkinwaleOwi/charts_python/blob/main/histogram_2d , 6b. https://github.com/AkinwaleOwi/charts_python/blob/main/histogram_3d
+
+
+7. Waterfall Chart
+
+Best for: Showing how a starting value changes step by step
+Typical uses: Profit breakdown, cash flow analysis
+👉 A finance team favorite.
+
+8. Table (yes, really)
+
+Best for: Exact values
+Typical uses: Financial statements, detailed reports
+👉 Not flashy, but often necessary.
+
+9. Dashboard Combo (mixed charts)
+
+Best for: Monitoring performance
+Typical uses: Executive dashboards, KPI tracking
+👉 Usually a mix of bar, line, and KPI tiles.
+
+If you want, tell me what you’re presenting (finance, marketing, ops, strategy) and who the audience is—I can recommend the best chart instead of just the common ones.
